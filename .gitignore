@@ -1,0 +1,10 @@
+# Ignore virtual environments
+ai_env/
+Dash/ai_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
